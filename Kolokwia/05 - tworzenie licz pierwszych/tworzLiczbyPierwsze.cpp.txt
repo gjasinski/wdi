@@ -1,0 +1,5 @@
+2. Dane s¹ dwie liczby naturalne z których budujemy trzeci¹ liczbê. W budowanej liczbie musz¹ 
+wyst¹piæ wszystkie cyfry wystêpuj¹ce w liczbach wejœciowych. Wzajemna kolejnoœæ cyfr ka¿dej z liczb 
+wejœciowych musi byæ zachowana. Na przyk³ad maj¹c liczby 123 i 75 mo¿emy zbudowaæ liczby 12375,
+17523, 75123, 17253, itd. Proszê napisaæ funkcjê która wyznaczy ile liczb pierwszych mo¿na 
+zbudowaæ z dwóch zadanych liczb

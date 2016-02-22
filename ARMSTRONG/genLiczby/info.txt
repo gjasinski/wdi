@@ -1,0 +1,6 @@
+Czas wykonania:
+real	117m11.675s
+user	114m1.592s
+sys	0m7.512s
+grzegorz@VM:~/Pulpit/genLiczby$ 
+

@@ -1,0 +1,6 @@
+grzegorz@VM:~/Pulpit/Liczby armstronga$ time ./liczbyArmstronga2
+
+real	440m44.978s
+user	440m12.868s
+sys	0m28.504s
+

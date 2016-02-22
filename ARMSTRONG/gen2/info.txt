@@ -1,0 +1,9 @@
+grzegorz@VM:~/Pulpit/gen2$ time ./liczbyArmstronga2 
+
+real	1176m17.215s
+user	619m11.372s
+sys	0m25.804s
+grzegorz@VM:~/Pulpit/gen2$ ^C
+grzegorz@VM:~/Pulpit/gen2$ 
+
+
